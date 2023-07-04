@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khoi</h1>
 <h3 align="center">Backend Developer | API Enthusiast | Vietnames</h3>
-<img align="right" alt="Coding" width="200" src="https://64.media.tumblr.com/62251d152a9324087e8e94cf65b402b9/01ca1f00dbbb4419-ce/s640x960/36fa75c8380a6d70bf3a6719e4d5cc0d931621b4.gif">
+<img align="right" alt="Coding" width="269" src="https://64.media.tumblr.com/62251d152a9324087e8e94cf65b402b9/01ca1f00dbbb4419-ce/s640x960/36fa75c8380a6d70bf3a6719e4d5cc0d931621b4.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khoikhuat2204&label=Profile%20views&color=0e75b6&style=flat" alt="khoikhuat2204" /> </p>
 
