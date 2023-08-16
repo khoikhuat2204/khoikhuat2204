@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khoikhuat2204&label=Profile%20views&color=0e75b6&style=flat" alt="khoikhuat2204" /> </p>
 
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning **ASP.NET**
 
 - 📫 How to reach me **khuat.khoi2204@gmail.com**
 
